@@ -1,0 +1,9 @@
+bs4
+rich
+httpie
+blessed
+urllib3
+requests
+inquirer
+fake-useragent
+beautifulsoup4
